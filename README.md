@@ -35,4 +35,53 @@
   2. THe cost of its ongoing Ownership
 - Operational overhead represents a condsiderable share of IT budgets, often exceeding up=front investment costs.
 
--Common Forms of infrastructure-related
+- Common Forms of infrastructure-related overhead inlcude the following: 
+  - technical personall required to keep the envionment operational
+  - upgrades, and patches that introduce additional testing and deployment cycles
+  - utility bills (AC, Electricity)
+  - security / access control measures that need to be maintined and enforced
+  - administrative and accounts staff that may be required to keep track of licenses and support arrangements
+- On going battle in IT when it comes to cost reduction
+
+## Organizational Agility
+- Business need the ability to adapat, evolve due to both internal and external factors
+- organizational agility is the ***measure of an organization's responsiveness to change***
+
+## Cloud
+- A cloud refers to a distinct IT environment that is designed for the purpose of remotely provisioning scalable and measured IT resources.
+- a network of networks providing remote access to a set of decentralized IT resources.
+
+## IT Resource
+- An IT resource is a physical or virtual IT-related artifact that can be either software based, such as a virtual server or a custom software program, or hardware-based, such as a physical server or a network device
+
+## On-Premise
+- As a distinct and remotely accessible environment, a cloud represents an option for the deployment of IT resources.
+- An IT resource that is on-premise cannot be cloud-based, and vice-versa.
+- In other words, the term "on-premise" is another way of stating "on the premises of a controlled IT environment that is ***not cloud-based***."
+
+## Scaling
+- Scaling, from an IT resource perspective, represents the ability of the IT resource to handle increased or decreased usage demands.
+- The following are types of scaling:
+  - ***Horizontal Scaling*** - scaling out and scaling in
+  -  ***Vertical Scaling*** - scaling up and scaling down
+- Horizontal Scaling
+  - The allocating or releasing of IT resources that are of the same type is referred to as ***horizontal scaling
+  - horizontal allocation of resources is referred to as ***scaling out*** and the horizontal releasing of resources is referred to as ***scaling in
+  - common form of scaling within cloud environments
+- Vertical Scaling
+  - When an existing IT resource is replaced by another with higher or lower capacity, vertical scaling is considered to have occurred
+  - replacing of an IT resource with another that has a higher capacity is referred to as ***scaling up*** and the replacing an IT resource with another that has a lower capacity is considered ***scaling down
+  - Less common in cloud enviornments due to the downtime required while the replacement is taking place
+
+```
+Horizontal Scaling                                           | Vertical Scaling
+less expensive (through commodity hardware components)       | more expensive (specialized servers)
+IT resources instantly available                             | IT resources normally instantly available
+resource replication and automated scaling                   | additional setup is normally needed
+additional IT resources needed                               | no additional IT resources needed
+not limited by hardware capacity                             | limited by maximum hardware capacity
+```
+## Cloud Service
+- A cloud service is any IT resource that is made remotely accessible via a cloud. 
+- A cloud service can exist as a simple Web-based software program with a technical interface invoked via the use of a messaging protocol, or as a remote access point for administrative tools or larger environments and other IT resources. 
+
