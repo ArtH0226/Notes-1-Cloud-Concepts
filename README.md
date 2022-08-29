@@ -1,4 +1,4 @@
-# Notes-1-Cloud-Concepts
+# Notes-1-Cloud-Concepts - CIT114 Arturo Hernandez, AUG 29th, 2022
 ## A Brief History
 - Computing in the "cloud" traces back to the Origins of utility computing
 - Computer Scientist John McCarthy Proposed this in 1961
